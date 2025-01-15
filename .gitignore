@@ -14,5 +14,6 @@
 # Dependency directories (remove the comment below to include it)
 vendor/
 .env
+/storage
 
 # End of https://mrkandreev.name/snippets/gitignore-generator/#Go
