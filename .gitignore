@@ -15,5 +15,6 @@
 vendor/
 .env
 /storage
+/config
 
 # End of https://mrkandreev.name/snippets/gitignore-generator/#Go
